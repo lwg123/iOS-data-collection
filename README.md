@@ -14,4 +14,14 @@ iOS 跳转到系统的设置界面
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483814&idx=6&sn=49620c1d31159914b3e6621d0683bf04&scene=0#wechat_redirect
 一些小功能实现
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483814&idx=7&sn=774df63f2635bb8669b902a07d0ced10&scene=0#wechat_redirect
-微信公众号:iOS面向编码
+
+iOS视频边下边播—缓存播放数据流 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483799&idx=1&sn=a7fbc68c19bd53e476f0be92727eb787&scene=0#wechat_redirect
+iOS使用UICountingLabel实现数字变化的动画效果
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483799&idx=2&sn=b9dae3f060193d97ec8dc6a82e3b0816&scene=0#wechat_redirect
+CoreText实现图文混排之点击事件
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483799&idx=3&sn=be1bc6d5eb5a6dfe09b9361a16a02be8&scene=0#wechat_redirect
+仿window阿里旺旺登陆界面,打印机吐纸动画效果
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483799&idx=4&sn=f97d6dcf6ba2280787081f7a83a5bcd6&scene=0#wechat_redirect
+iOS 日历类(NSCalendar) 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483799&idx=5&sn=d3e8d3a6130b049b031c9d4155e4eb48&scene=0#wechat_redirect
