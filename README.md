@@ -38,3 +38,10 @@ iOS-UIMenuController搭配UIPasteboard，执行拷贝-黏贴操作
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483823&idx=5&sn=014978840228857f0e1b0b1479afc46f&scene=0#wechat_redirect
 iOS-正则表达式的秘籍
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483823&idx=6&sn=f7e44507c9e9f80175863fc6c2435dfe&scene=0#wechat_redirect
+
+从 ObjC Runtime 源码分析一个对象创建的过程 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483828&idx=3&sn=268b4259a93ceb1b416ce010d8cd8ccd&scene=0#wechat_redirect
+iOS B站开源框架ijkplayer的demo运行步骤
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483828&idx=2&sn=becbb931e6cd1da428a59e828196c28a&scene=0#wechat_redirect
+ Github上的iOS App源码
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483828&idx=1&sn=ff9b42bd11994ea470619b8912da935b&scene=0#wechat_redirect
