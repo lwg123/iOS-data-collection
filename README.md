@@ -45,3 +45,18 @@ iOS B站开源框架ijkplayer的demo运行步骤
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483828&idx=2&sn=becbb931e6cd1da428a59e828196c28a&scene=0#wechat_redirect
  Github上的iOS App源码
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483828&idx=1&sn=ff9b42bd11994ea470619b8912da935b&scene=0#wechat_redirect
+
+GPUImage详细解析(一) 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=1&sn=8f009af2837531009ae89f141f15798a&scene=0#wechat_redirect
+ GPUImage详细解析（二） 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=2&sn=5e00934feaf482927edcb0c9e6840d3a&scene=0#wechat_redirect
+ GPUImage详细解析（三）- 实时美颜滤镜 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=3&sn=150f502f25f4ce6018284db77d4664e9&scene=0#wechat_redirect
+ GPUImage详细解析（四）模糊图片处理 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=4&sn=dcefa8f1daf1974de4581bcea6abb69e&scene=0#wechat_redirect
+ GPUImage详细解析（五）滤镜视频录制 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=5&sn=91c4d845958318b593a6435ec1a6d80b&scene=0#wechat_redirect
+ GPUImage详细解析（六）-用视频做视频水印 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=6&sn=3c424e54ad52aca6d3c43958611efb0b&scene=0#wechat_redirect
+ GPUImage详细解析（七）文字水印和动态图像水印 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=7&sn=1697245b5ce770ed8a45e0d49c3e01e4&scene=0#wechat_redirect
