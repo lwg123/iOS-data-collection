@@ -60,3 +60,18 @@ http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=5&sn=91c4d84
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=6&sn=3c424e54ad52aca6d3c43958611efb0b&scene=0#wechat_redirect
  GPUImage详细解析（七）文字水印和动态图像水印 
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483837&idx=7&sn=1697245b5ce770ed8a45e0d49c3e01e4&scene=0#wechat_redirect
+
+iOS开发-OpenGL ES入门教程1 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483846&idx=1&sn=382d636399e5a9ba3cf5707bfa0c396b&scene=0#wechat_redirect
+iOS开发-OpenGL ES入门教程2 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483846&idx=2&sn=204dd19f23824d3495434f0a1fb3b202&scene=0#wechat_redirect
+iOS开发-OpenGL ES入门教程3 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483846&idx=3&sn=d77e524ffd691882e744502e9ce0ad70&scene=0#wechat_redirect
+iOS开发-OpenGL ES入门教程4 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483846&idx=4&sn=ca1a5889ace246c26381cda3bd84cb93&scene=0#wechat_redirect
+iOS开发-OpenGL ES画图应用 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483846&idx=5&sn=94e5507aa4bd1f5241ec6383336d529e&scene=0#wechat_redirect
+GPUImage详细解析（八）视频合并混音 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483846&idx=6&sn=aa9695b29907c9505a56b0fbb0fbd48d&scene=0#wechat_redirect
+GPUImage详细解析（九）图像的输入输出和滤镜通道 
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483846&idx=7&sn=02d534b9058f9e5234327fa8f94d1e49&scene=0#wechat_redirect
