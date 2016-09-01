@@ -75,3 +75,17 @@ GPUImage详细解析（八）视频合并混音
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483846&idx=6&sn=aa9695b29907c9505a56b0fbb0fbd48d&scene=0#wechat_redirect
 GPUImage详细解析（九）图像的输入输出和滤镜通道 
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483846&idx=7&sn=02d534b9058f9e5234327fa8f94d1e49&scene=0#wechat_redirect
+
+iOS滚珠菜单动效
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483913&idx=1&sn=0af313a2a60ae8b55694fc9ff644e84d&scene=0#wechat_redirect
+iOS 语音合成，语音播报功能（系统）
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483913&idx=2&sn=969dadb8cc00ab0a9ca8102c3aa5c109&scene=0#wechat_redirect
+酷信
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483913&idx=3&sn=f08302a04ab8d8a3716f496d1ef36d12&scene=0#wechat_redirect
+
+就2小时教会你抽丝剥茧CAAnimation核心动画之精美的下载动画
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483921&idx=1&sn=370c87f2e716b7959201a04b1b05c346&scene=0#wechat_redirect
+如何实现百度外卖APP个人中心头像"浪"起来的动画效果
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483921&idx=2&sn=e7dc6c1152ad8efa546270a5e608500b&scene=0#wechat_redirect
+iOS 开发中使用 NSURLProtocol 拦截 HTTP 请求
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483921&idx=3&sn=a5a284c2390c0c787db14822464a1e8e&scene=0#wechat_redirect
