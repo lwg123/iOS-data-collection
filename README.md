@@ -89,3 +89,9 @@ http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483921&idx=1&sn=370c87f
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483921&idx=2&sn=e7dc6c1152ad8efa546270a5e608500b&scene=0#wechat_redirect
 iOS 开发中使用 NSURLProtocol 拦截 HTTP 请求
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483921&idx=3&sn=a5a284c2390c0c787db14822464a1e8e&scene=0#wechat_redirect
+
+高性能图文混排框架，构架顺滑的iOS应用
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483940&idx=1&sn=61704865b0337b3fee5c7b017bd96ce1&scene=0#wechat_redirect
+轻仿QQ音乐之音频歌词播放、锁屏歌词
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483940&idx=2&sn=81b29ae2a6f288c971b95eb40424af18&scene=0#wechat_redirect
+
