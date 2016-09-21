@@ -95,3 +95,9 @@ http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483940&idx=1&sn=6170486
 轻仿QQ音乐之音频歌词播放、锁屏歌词
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483940&idx=2&sn=81b29ae2a6f288c971b95eb40424af18&scene=0#wechat_redirect
 
+iOS开发 适配iOS10以及Xcode8
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483980&idx=1&sn=7aab6af3ec51cf7feebaa1235e5d118d&scene=0#wechat_redirect
+iOS开发：保持程序在后台长时间运行
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483980&idx=2&sn=7f3e3385de221d2cc0e9d3b24a5751a7&scene=0#wechat_redirect
+iOS-app进入后台申请10分钟活跃时间
+http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483980&idx=3&sn=5cc49f540b48e461b612c015a3eba17c&scene=0#wechat_redirect
