@@ -101,3 +101,8 @@ iOS开发：保持程序在后台长时间运行
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483980&idx=2&sn=7f3e3385de221d2cc0e9d3b24a5751a7&scene=0#wechat_redirect
 iOS-app进入后台申请10分钟活跃时间
 http://mp.weixin.qq.com/s?__biz=MzIwOTQ3NzU0Mw==&mid=2247483980&idx=3&sn=5cc49f540b48e461b612c015a3eba17c&scene=0#wechat_redirect
+
+iOS图片压缩
+http://url.cn/2FtRsnD
+清理ios项目不用的图片资源
+http://www.jianshu.com/p/5cca9a76928f
